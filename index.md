@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Product Manager
+I’m currently a Product Manager for a leading retail domain name registrar.
 
-You can use the [editor on GitHub](https://github.com/jameskoole/jameskoole.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Since 2014, I’ve led a team of developers and designers through constant iteration to improve the experience for our customers, whether they are Internet experts or new to the web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My approach
+I’m passionate about product and relish the opportunity to improve and add features to any product through an iterative and methodical approach that makes a measurable difference to users while not upsetting the apple cart through radical change.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jameskoole/jameskoole.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Users don’t like change, so completely remaking a product without alienating and upsetting those users is a significant challenge. By maintaining consistency and familiarity even when completely swapping out pages and tools, users were brought from old to new over time in a far less disruptive way.

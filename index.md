@@ -3,6 +3,7 @@ I’m currently a Product Manager for a leading retail domain name registrar.
 
 Since 2014, I’ve led a team of developers and designers through constant iteration to improve the experience for our customers, whether they are Internet experts or new to the web.
 
+### My approach
 ## My approach
 I’m passionate about product and relish the opportunity to improve and add features to any product through an iterative and methodical approach that makes a measurable difference to users while not upsetting the apple cart through radical change.
 

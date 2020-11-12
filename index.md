@@ -12,3 +12,4 @@ Users don’t like change, so completely remaking a product without alienating a
 * [On working from home](/on-working-from-home.md)
 * [Flight tracking with ADS-B](/flight-tracking-with-adsb.md)
 * [Roadmap vs. Roadtrip](/roadmap-vs-roadtrip.md)
+* [Running Goals for 2021](/running-in-2021.md)
